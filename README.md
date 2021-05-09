@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Manuel Gil</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hola 👋, soy Manuel Gil</h1>
+<h3 align="center">Dev & Content Creator</h3>
 
-![Portada Twitter (1)](https://user-images.githubusercontent.com/15136676/117588556-a4948f00-b0e9-11eb-9625-8d2ff513baf9.png)
+![Portada](https://user-images.githubusercontent.com/15136676/117588556-a4948f00-b0e9-11eb-9625-8d2ff513baf9.png)
 
-- 🔭 I’m currently working on [#LatinasCodeCamp](https://twitter.com/search?q=%23LatinasCodeCamp)
-
-- 💬 Ask me about **Git**
+- 🔭 Colaboré con [#LatinasCodeCamp](https://twitter.com/search?q=%23LatinasCodeCamp)
+- 💬 Pregúntame acerca de **Git** y **GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="imgildev" height="30" width="40" /></a>
-<a href="https://medium.com/@imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@imgildev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://twitter.com/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://medium.com/@imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@imgildev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="imgildev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +20,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imgil"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imgil" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgildev&show_icons=true&locale=en&layout=compact" alt="imgildev" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imgildev&show_icons=true&locale=en" alt="imgildev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imgildev&" alt="imgildev" /></p>
