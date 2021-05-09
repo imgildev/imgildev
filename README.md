@@ -6,7 +6,7 @@
 - 🔭 Colaboré con [#LatinasCodeCamp](https://twitter.com/search?q=%23LatinasCodeCamp)
 - 💬 Pregúntame acerca de **Git** y **GitHub**
 
-<h3 align="left">Contanto:</h3>
+<h3 align="left">Contáctame:</h3>
 <p align="left">
 <a href="https://github.com/manuelgil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="manuelgil" height="30" width="40" /></a>
 <a href="https://twitter.com/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imgildev" height="30" width="40" /></a>
