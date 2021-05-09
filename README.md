@@ -8,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/manuelgil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="manuelgil" height="30" width="40" /></a>
 <a href="https://twitter.com/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imgildev" height="30" width="40" /></a>
 <a href="https://medium.com/@imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@imgildev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imgildev" height="30" width="40" /></a>
@@ -20,8 +21,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imgil"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imgil" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgildev&show_icons=true&locale=en&layout=compact" alt="imgildev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelgil&show_icons=true&locale=en" alt="manuelgil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imgildev&show_icons=true&locale=en" alt="imgildev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imgildev&" alt="imgildev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelgil&" alt="manuelgil" /></p>
